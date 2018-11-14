@@ -1,4 +1,4 @@
-COMPND      ETHANE
+COMPND      ETHANE version 2
 AUTHOR      DAVE WOODCOCK  95 12 18
 ATOM      1  C           1      -0.752   0.001  -0.141  1.00  0.00
 ATOM      2  C           1       0.752  -0.001   0.141  1.00  0.00
